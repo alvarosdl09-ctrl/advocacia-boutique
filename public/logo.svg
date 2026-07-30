@@ -1,0 +1,13 @@
+<svg width="640" height="180" viewBox="0 0 640 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="180" rx="28" fill="#0D1422"/>
+  <rect x="28" y="28" width="124" height="124" rx="26" fill="#C79B4F"/>
+  <path d="M56 86C56 72.7452 66.7452 62 80 62H96C109.255 62 120 72.7452 120 86V102C120 115.255 109.255 126 96 126H80C66.7452 126 56 115.255 56 102V86Z" fill="#F7EFE1"/>
+  <path d="M70 80C70 73.3726 75.3726 68 82 68H94C100.627 68 106 73.3726 106 80V88C106 94.6274 100.627 100 94 100H82C75.3726 100 70 94.6274 70 88V80Z" fill="#0D1422"/>
+  <path d="M78 84H98" stroke="#F7EFE1" stroke-width="7" stroke-linecap="round"/>
+  <path d="M78 96H92" stroke="#F7EFE1" stroke-width="7" stroke-linecap="round"/>
+  <path d="M181 63H230" stroke="#F7EFE1" stroke-width="10" stroke-linecap="round"/>
+  <path d="M181 92H250" stroke="#C79B4F" stroke-width="10" stroke-linecap="round"/>
+  <path d="M181 121H222" stroke="#F7EFE1" stroke-width="10" stroke-linecap="round"/>
+  <text x="285" y="87" fill="#F7EFE1" font-family="Georgia, 'Times New Roman', serif" font-size="31" letter-spacing="3">VALENTE</text>
+  <text x="285" y="120" fill="#C79B4F" font-family="Georgia, 'Times New Roman', serif" font-size="20" letter-spacing="6">ASSOCIADOS</text>
+</svg>
